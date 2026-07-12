@@ -1,0 +1,21 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Local browser profiles and auth state
+/user-data/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# OS/editor noise
+.DS_Store
+.vscode/
+.idea/
+*.log
